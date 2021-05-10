@@ -9,7 +9,7 @@
 
 ## Configuration
 
-See [example directory](https://github.com/jcbiellikltd/docker-samba-server/tree/master/example) for sample config file.
+See [example directory](https://github.com/CloudaxDM/docker-samba-server/tree/master/example) for sample config file.
 
 ## Quickstart
 
