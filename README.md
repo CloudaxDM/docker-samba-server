@@ -15,7 +15,8 @@ See [example directory](https://github.com/jcbiellikltd/docker-samba-server/tree
 
 ```yml
 samba:
-  image: joebiellik/samba-server
+  image: cloudax/samba-server
+  #thx joebiellik
 
   volumes:
     # You must provide a Samba config file
