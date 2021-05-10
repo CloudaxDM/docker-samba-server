@@ -33,6 +33,6 @@ samba:
     - "445:445/tcp"
 
   environment:
-    - USERNAME=max
-    - PASSWORD=samba
+    - USERNAME=youruser
+    - PASSWORD=yourpw
 ```
