@@ -2,8 +2,7 @@
 
 [![Docker Pulls](https://img.shields.io/docker/pulls/cloudax/samba-server.svg)](https://hub.docker.com/r/cloudax/samba-server/)
 [![Docker Stars](https://img.shields.io/docker/stars/cloudax/samba-server.svg)](https://hub.docker.com/r/cloudax/samba-server/)
-[![Docker Build](https://img.shields.io/docker/automated/cloudax/samba-server.svg)](https://hub.docker.com/r/cloudax/samba-server/)
-[![Docker Build Status](https://img.shields.io/docker/build/cloudax/samba-server.svg)](https://hub.docker.com/r/cloudax/samba-server/)
+
 
 [Samba 4](https://www.samba.org/) server running under [s6 overlay](https://github.com/just-containers/s6-overlay) on [Alpine Linux](https://hub.docker.com/_/alpine/). Runs both `smbd` and `nmbd` services.
 
