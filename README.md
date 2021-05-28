@@ -6,8 +6,6 @@
 
 [Samba 4](https://www.samba.org/) server running under [s6 overlay](https://github.com/just-containers/s6-overlay) on [Alpine Linux](https://hub.docker.com/_/alpine/). Runs both `smbd` and `nmbd` services.
 
-## Configuration
-
 
 ## Quickstart
 
